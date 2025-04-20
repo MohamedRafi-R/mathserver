@@ -53,8 +53,10 @@ Publish the website in the given URL.
 ```
 
 # SERVER SIDE PROCESSING:
-![alt text](<WhatsApp Image 2025-04-12 at 21.43.59_969c0836.jpg>)
+![WhatsApp Image 2025-04-12 at 21 43 59_c7a9e137](https://github.com/user-attachments/assets/307d05fe-78cb-4355-ab19-5cba97b8ddd1)
+
 # HOMEPAGE:
-![alt text](<WhatsApp Image 2025-04-12 at 21.43.59_6cb1438e.jpg>)
+![WhatsApp Image 2025-04-12 at 21 43 59_ca455a82](https://github.com/user-attachments/assets/21b5de58-4cb4-44c7-8282-0af86f933026)
+
 # RESULT:
 The program for performing server side processing is completed successfully.
